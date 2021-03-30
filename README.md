@@ -1,4 +1,4 @@
-# -Yolanda-Ornellas-yornellas-Find-a-repository-HSMUCodeSchoolDesenvolvimento7-JavaScript
+# HSMUCodeSchoolDesenvolvimento7-JavaScript
 Desenvolvimento 7 do Módulo de JavaScript da CodeSchool da HSMU
 
 Um sistema de gestão acadêmica possui a entidade Aluno, que tem características obrigatórias, como matrícula, nome, CPF, data de nascimento, sexo, nome da mãe e endereço, e opcionais, como nome do pai, e-mail e telefone.
